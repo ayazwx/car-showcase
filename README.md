@@ -1,7 +1,8 @@
 # CAR SHOWCASE:
 
 ## Used Tools:
- - JavaScript 
+ - JavaScript
+ - TypeScript
  - React.js 
  - Next.js
  - Tailwind CSS
